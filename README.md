@@ -1,9 +1,47 @@
 Automatic localization of templates of the sites WordPress.
 ===========================================================
 
+Allows to make machine translation of *.pot of files on other languages. It is realized on the basis of the translator's [Yandex](https://translate.yandex.ru/).
 
-License
--------
+---
+
+##Installation:
+
+```sh
+$ npm install
+```
+
+##Getting started:
+
+1) To get your own key API ([here](https://tech.yandex.ru/keys/get/?service=trnsl));
+
+2) To specify options for the task;
+
+###Description of parameters:
+
+All the parameters of the task are located in section ```settings``` of the task ```translate```:
+
+    var settings = {
+      basePath: 'languages/',
+      translateKey: '',
+      apiUrl: 'https://translate.yandex.net/api/v1.5/tr.json/translate'
+    };
+
+* basePath - Base path to directory with templates;
+
+* translateKey - Your key API;
+
+* apiUrl - url API translator's Yandex
+
+###Example of running:
+
+```sh
+grunt translate:ru
+```
+
+---
+
+##License
 
 Copyright (c) 2015, Sergei Shchetkin All rights reserved.
 
