@@ -1,0 +1,20 @@
+{
+  "author": "Sergei Shchetkin",
+  "name": "grunt-wordpress-translator",
+  "version": "0.0.1",
+  "description": "Machine translation of subjects for WordPress",
+  "homepage": "https://github.com/cannabiss/grunt-wordpress-translator",
+  "licenses": {
+    "type": "MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cannabiss/grunt-wordpress-translator.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-tasks": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
