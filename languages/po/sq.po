@@ -1,0 +1,54 @@
+#: An empty string
+msgid ""
+msgstr ""
+
+#: Special characters
+msgid "&nbsp;"
+msgstr ""
+
+#: Line 1
+msgid "All"
+msgstr "Të gjitha"
+
+#: Line 2
+msgid "My template"
+msgstr "Shabllonin tim"
+
+#: Line 3
+msgid "Hello World!"
+msgstr "Tungjatjeta Botë!"
+
+#: Line 4
+msgid "link"
+msgstr "lidhje"
+
+#: Line 5
+msgid "This is a good plugin."
+msgstr "Kjo është një e mirë plugin."
+
+#: Line 6
+msgid "Thanks to Yandex!"
+msgstr "Faleminderit për Yandex!"
+
+#: Line 7
+msgid "The problem to be solved automatically"
+msgstr "Problemi të zgjidhet automatikisht"
+
+#: Line 8
+msgid "Programming is power."
+msgstr "Programimi është fuqi."
+
+#: Line 9
+msgid "Our contacts"
+msgstr "Kontaktet tona"
+
+#: Line 10
+msgid "Have questions?"
+msgstr "Keni pyetje?"
+
+#: Line 11
+msgid "{{Test line}}"
+msgstr ""
+
+
+

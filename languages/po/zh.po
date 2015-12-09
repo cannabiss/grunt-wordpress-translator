@@ -1,0 +1,54 @@
+#: An empty string
+msgid ""
+msgstr ""
+
+#: Special characters
+msgid "&nbsp;"
+msgstr ""
+
+#: Line 1
+msgid "All"
+msgstr "所有"
+
+#: Line 2
+msgid "My template"
+msgstr "我的模板"
+
+#: Line 3
+msgid "Hello World!"
+msgstr "你好世界!"
+
+#: Line 4
+msgid "link"
+msgstr "联系"
+
+#: Line 5
+msgid "This is a good plugin."
+msgstr "这是一个很好的plugin的。"
+
+#: Line 6
+msgid "Thanks to Yandex!"
+msgstr "谢谢Yandex!"
+
+#: Line 7
+msgid "The problem to be solved automatically"
+msgstr "待解决的问题自动"
+
+#: Line 8
+msgid "Programming is power."
+msgstr "拟订方案的能力。"
+
+#: Line 9
+msgid "Our contacts"
+msgstr "我们的接触"
+
+#: Line 10
+msgid "Have questions?"
+msgstr "有问题吗?"
+
+#: Line 11
+msgid "{{Test line}}"
+msgstr ""
+
+
+

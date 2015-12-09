@@ -1,0 +1,54 @@
+#: An empty string
+msgid ""
+msgstr ""
+
+#: Special characters
+msgid "&nbsp;"
+msgstr ""
+
+#: Line 1
+msgid "All"
+msgstr "Omnes"
+
+#: Line 2
+msgid "My template"
+msgstr "Mea template"
+
+#: Line 3
+msgid "Hello World!"
+msgstr "Hello World!"
+
+#: Line 4
+msgid "link"
+msgstr "link"
+
+#: Line 5
+msgid "This is a good plugin."
+msgstr "Hoc est bonum plugin."
+
+#: Line 6
+msgid "Thanks to Yandex!"
+msgstr "Gratias Yandex!"
+
+#: Line 7
+msgid "The problem to be solved automatically"
+msgstr "Consequat esse solvitur ipso"
+
+#: Line 8
+msgid "Programming is power."
+msgstr "Vestibulum est potentia."
+
+#: Line 9
+msgid "Our contacts"
+msgstr "Nostra consuetudine"
+
+#: Line 10
+msgid "Have questions?"
+msgstr "Quaestiones?"
+
+#: Line 11
+msgid "{{Test line}}"
+msgstr ""
+
+
+
