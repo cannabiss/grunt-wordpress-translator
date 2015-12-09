@@ -30,7 +30,7 @@ module.exports = function (grunt) {
 
     var settings = {
       basePath: 'languages/',
-      translateKey: 'trnsl.1.1.20151209T100046Z.c177696e19c7be72.137faa94c3914fc0f9a5c944f720c0bbb13d5dfe',
+      translateKey: '',
       apiUrl: 'https://translate.yandex.net/api/v1.5/tr.json/translate'
     };
 
